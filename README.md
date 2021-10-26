@@ -1,4 +1,4 @@
-## 👋😁 Howdy! my name's Ryan, but I also go by Code-Contempory here on Github.
+## 👋😁 Howdy! my name's Ryan, but I also go by Code-Contempory here on GitHub.
 
 ### A Little About Me:
 - I've been familiar with code since 2015, but never took programming seriously and challenged myself to build any projects of decent scale until now.
