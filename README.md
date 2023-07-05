@@ -1,5 +1,7 @@
 ## 👋😁 Howdy! my name's Ryan, but I also go by Code-Contempory here on GitHub.
 
+My public portfolio may be a little bit lacking at the moment but I am working on filling it with projects that showcase my actual real-world capabilities soon.
+
 ### A Little About Me:
 - I've been familiar with code since 2015, but never took programming seriously and challenged myself to build any projects of decent scale until now.
 - I studied math and computer science at the junior college level and hold an Associate's in Math and Science.
