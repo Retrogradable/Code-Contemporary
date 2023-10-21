@@ -1,4 +1,4 @@
-## 👋😁 Howdy! my name's Ryan, but I also go by Code-Contempory here on GitHub.
+## 👋😁 Howdy! my name's Ryan, but I also go by Retrogradable here on GitHub.
 
 My public portfolio may be a little bit lacking at the moment but I am working on filling it with projects that showcase my actual real-world capabilities soon.
 
